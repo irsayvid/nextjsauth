@@ -11,7 +11,7 @@ export default function login() {
       // can be one of 'email' or 'phone_number_sms'
       identifierType: 'email',
       // Add the API key
-      apiKey: 'ede9466f-697c-41c5-afb7-c054807f5974',
+      apiKey: 'API_KEY_HERE',
       // Add a callback here to handle the payload sent by sdk
       onSuccess: (payload) => {
         // you can use this payload for your purpose
